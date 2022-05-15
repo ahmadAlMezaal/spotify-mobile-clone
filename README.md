@@ -8,6 +8,7 @@ npm install
 ```
 expo start
 ```
+Please note that this project is still under development
 
 ![Splash Screen](https://user-images.githubusercontent.com/61668890/136714637-3a4d449e-758b-4ed9-8fc8-f42237a5a336.png)
 ![Welcome Sreen](https://user-images.githubusercontent.com/61668890/136714636-1433ca28-57ce-48cf-be35-b1836de2c8be.png)
