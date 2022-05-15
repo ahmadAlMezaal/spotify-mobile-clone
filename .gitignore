@@ -1,0 +1,15 @@
+.env
+node_modules/
+.expo/
+npm-debug.*
+*.secret.ts
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
