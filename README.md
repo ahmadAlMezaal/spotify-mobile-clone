@@ -1,4 +1,4 @@
-# Spotify Clone - A cross-platform music app
+# Spotify Clone - A Cross-Platform music app using Spotify API
 
 ## How to lunch the app
 This project is developed using [Expo Go](https://expo.dev/client). After cloning the repository on your local device start the project by running:
